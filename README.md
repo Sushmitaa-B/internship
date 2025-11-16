@@ -35,7 +35,7 @@ java FibonacciGUI
 
 ## 🖼️ Screenshot
 
-![App Screenshot](images/output.png)
+![App Screenshot](/output.png)
 
 ---
 
